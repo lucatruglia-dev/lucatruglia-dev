@@ -1,5 +1,5 @@
 # Ciao 👋
-**I'm Luca (he/him)** - I'm a web frontend developer, dedicated to creating visually stunning and user-friendly websites.
+**I'm Luca (he/him)** - I'm a frontend developer focused on shaping ideas into functional, appealing websites.
 
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dev.lucatruglia.it/) [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kcalu) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/510152154376306699) [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/lucatruglia)
 ___
